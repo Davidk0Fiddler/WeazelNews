@@ -1,0 +1,169 @@
+body{
+    width: 100%;
+    height: 100%;
+    border: 10px solid black;
+    border-top: 20px solid black;
+    margin: 0;
+}
+
+a:hover{
+    cursor: pointer;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.header{
+    width: 100%;
+}
+
+.header .banner{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+
+#kep {
+    height: 100px;
+}
+
+.containera {
+    background-color: red;
+    height: 1000px;
+}
+
+.nav-list{
+    display: flex;
+    vertical-align: middle;
+    justify-content: space-around;
+}
+
+.nav-list a button{
+    height: 80%;
+    width: 80px;
+    background-color: black;
+    border: 0;
+    font-size: 30px;
+    color: white;
+}
+
+#discord{
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+}
+
+#tiktok{
+    width: 50px;
+    height: 50px;
+    border-radius: 12px;
+}
+
+.linkek{
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.containerb {
+    background-color: red;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.jelentkezes{
+    background-color: white;
+    width: 1000px;
+    height: 900px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.jelentkezes h1{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    font-family: sans-serif;
+}
+
+.jelentkezes p{
+    font-size: 23px;
+    margin-left: 10px;
+    font-family: sans-serif;
+}
+
+#felsorolas{
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+#felsorolas #kep{
+    width: 25px;
+    height: 25px;
+}
+
+.containerc {
+    background-color: red;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+#cikk{
+    background-color: white;
+    height: 120px;
+    width: 400px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin: auto;
+}
+
+#cikk p{
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+.col{
+    margin-left: 32px;
+}
+
+.containerd {
+    background-color: red;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+#hir{
+    height: 600px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+
+
+#hir img{
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.containere {
+    background-color: red;
+    height: 1000px;
+}
+
+.containerf {
+    background-color: red;
+    height: 1000px;
+}
