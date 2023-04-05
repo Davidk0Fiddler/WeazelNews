@@ -200,11 +200,12 @@ button:hover{
     justify-content: center;
     perspective: 90rem;
     perspective-origin: 30% 60%;
+    margin-top: -13px
   }
   
   .div-transform {
     flex: ;
-    transform: rotateX(10deg) rotateY(15deg) rotateZ(-9deg) scale3d(1, 1, -0.9)
+    transform: rotateX(5deg) rotateY(10deg) rotateZ(-9deg) scale3d(1, 1, -0.9)
       scale(1.1) translateX(50px);
   }
   
