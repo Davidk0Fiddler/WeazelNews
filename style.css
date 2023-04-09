@@ -321,3 +321,30 @@ button:hover{
     background-color: red;
   }
   
+    .vasarlas{
+  background-color: red;
+  border: 0;
+  padding: 0;
+  height: 100px;
+  text-align: center;
+}
+
+.vasarlas a{
+  font-style: normal;
+  width: 1000px;
+  height: 66px;
+}
+
+.vasarlas a button{
+  color: White;
+
+  background-color: red;
+  font-size: 30px;
+  border-radius: 20px;
+  height: 100%;
+  border: 0;
+}
+
+.vasarlas a button:hover{
+  cursor: pointer;
+}
